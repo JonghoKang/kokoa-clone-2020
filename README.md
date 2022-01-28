@@ -1,3 +1,3 @@
-# Kokoa Clone 2020
+# Git 2022
 
 For Study
