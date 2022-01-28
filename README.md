@@ -1,3 +1,3 @@
 # Kokoa Clone 2020
 
-For study
+HTML and CSS
